@@ -15,10 +15,13 @@ public class Github {
     //[x0001][x002]...etc. 
     
     public static void main(String[] args) {
-    System.out.println("My name is John"); 
-    System.out.print("I am funny");
-    System.out.println("Clown!");
-    System.out.println("This has been fun!");
+    System.out.println("This is Java Introduction class"); 
+    System.out.print("My name is Keo");
+    //This is an invoice
+    //ID        |Age       |Name     |Gender 
+    // 030410   |23        | Keo     |Female
+
     }
+    
     
 }
